@@ -18,7 +18,7 @@
 I am **Patrice IRADUKUNDA**, a passionate Data Scientist and ML Engineer committed to building intelligent, ethical, and scalable data-driven systems.  
 My mission is to create **solutions that educate, empower, and transform organizations** — from predictive analytics to large-scale ML platforms.
 
-🔹 Currently: Data Science Intern @ **Prodigy InfoTech**  
+🔹 Currently: Data Science Intern @ **Prodigy InfoTech** & Master'  
 🔹 Passionate about: ML • NLP • Predictive Modeling • Big Data • MLOps  
 🔹 Building: **Large-Scale Education Analytics Platform** (Python + Spark + MLlib)  
 🔹 Motto: _“Data is powerful — but intelligence is transformative.”_
@@ -50,47 +50,6 @@ My mission is to create **solutions that educate, empower, and transform organiz
 ✔ VS Code  
 ✔ Power BI / Tableau  
 ✔ Linux systems  
-
----
-
-## 📚 Featured Projects (My Best Work)
-Here are carefully selected, recruiter-ready projects:
-
-### 🔥 **1. Music Genre Classification (23 Genres, 71 Audio Features)**
-Machine learning model achieving near-perfect accuracy using classical ML.
-- Feature engineering for audio signals  
-- Multi-class classification  
-- Explainability + visualization  
-
-🔗 *Link to repository*
-
----
-
-### 📊 **2. Credit Card Fraud Detection – ML Classification**
-- Highly imbalanced dataset handling  
-- Logistic Regression vs RF vs SVM  
-- Precision-Recall optimization  
-
-🔗 *Link to repository*
-
----
-
-### 🧬 **3. Toddler Autism Prediction – Healthcare ML**
-- Data cleaning + EDA  
-- Classification + ROC-AUC  
-- Ethical ML practices  
-
-🔗 *Link to repository*
-
----
-
-### 🏫 **4. Large-Scale Education Analytics Platform (In Progress)**
-A full Data Engineering + ML pipeline analyzing school-wide performance.
-- Ingestion → Cleaning → Warehouse → ML  
-- Dropout prediction model  
-- PySpark, Partitioning, Parquet  
-
-🔗 *Link to repository*
 
 ---
 
