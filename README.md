@@ -6,7 +6,7 @@
 
 <!-- TAGLINE -->
 <h2 align="center">
-  🚀 Data Scientist • Machine Learning Engineer • AI Innovator  
+  Data Scientist • Machine Learning Engineer • AI Innovator  
 </h2>
 <h4 align="center">
   Turning raw data into intelligent systems, high-impact insights, and real-world solutions.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌍 About Me
+## About Me
 I am **Patrice IRADUKUNDA**, a passionate Data Scientist and ML Engineer committed to building intelligent, ethical, and scalable data-driven systems.  
 My mission is to create **solutions that educate, empower, and transform organizations** — from predictive analytics to large-scale ML platforms.
 
@@ -26,7 +26,7 @@ My mission is to create **solutions that educate, empower, and transform organiz
 
 ---
 
-## 🧠 Technical Expertise
+## Technical Expertise
 ### **Languages**
 ✔ Python  
 ✔ SQL  
@@ -54,7 +54,7 @@ My mission is to create **solutions that educate, empower, and transform organiz
 
 ---
 
-## 🚀 What I’m Learning Now
+## What I’m Learning Now
 ✔ MLOps Foundations  
 ✔ Advanced PySpark  
 ✔ Generative AI & LLM workflows  
@@ -64,8 +64,6 @@ My mission is to create **solutions that educate, empower, and transform organiz
 
 ## 💬 Let's Connect
 I love collaborating on **data-driven solutions**, research, and ML projects.
-
-## 🌐 🙌🙌👏✍With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patrice-iradukunda-74931827a/">
