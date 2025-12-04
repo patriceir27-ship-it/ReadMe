@@ -19,6 +19,7 @@ I am **Patrice IRADUKUNDA**, a passionate Data Scientist and ML Engineer committ
 My mission is to create **solutions that educate, empower, and transform organizations** — from predictive analytics to large-scale ML platforms.
 
 🔹 Currently: Data Science Intern @ **Prodigy InfoTech** & Master's Student at **AIMS RWANDA**.
+
 🔹 Passionate about: ML • NLP • Predictive Modeling • Big Data • MLOps  
 🔹 Building: **Large-Scale Education Analytics Platform** (Python + Spark + MLlib)  
 🔹 Motto: _“Turning complexity into clarity through intelligent systems.”_
