@@ -15,7 +15,7 @@
 ---
 
 ## 🌍 About Me
-I am **Patrice Iradukunda**, a passionate Data Scientist and ML Engineer committed to building intelligent, ethical, and scalable data-driven systems.  
+I am **Patrice IRADUKUNDA**, a passionate Data Scientist and ML Engineer committed to building intelligent, ethical, and scalable data-driven systems.  
 My mission is to create **solutions that educate, empower, and transform organizations** — from predictive analytics to large-scale ML platforms.
 
 🔹 Currently: Data Science Intern @ **Prodigy InfoTech**  
@@ -106,9 +106,9 @@ A full Data Engineering + ML pipeline analyzing school-wide performance.
 I love collaborating on **data-driven solutions**, research, and ML projects.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link-here/"><img src="https://img.shields.io/badge/LinkedIn-Patrice_Iradukunda-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/patrice-iradukunda-74931827a//"><img src="https://img.shields.io/badge/LinkedIn-Patrice_IRADUKUNDA-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:patriceir27@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/patriceir27-ship-it"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
