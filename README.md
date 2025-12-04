@@ -73,11 +73,11 @@ I love collaborating on **data-driven solutions**, research, and ML projects.
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?patriceir27-ship-it&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?patriceir27-ship-it&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
