@@ -1,7 +1,7 @@
 # ReadMe
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Patrice%20Iradukunda&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Patrice%20IRADUKUNDA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlign=50" />
 </p>
 
 <!-- TAGLINE -->
