@@ -18,10 +18,10 @@
 I am **Patrice IRADUKUNDA**, a passionate Data Scientist and ML Engineer committed to building intelligent, ethical, and scalable data-driven systems.  
 My mission is to create **solutions that educate, empower, and transform organizations** — from predictive analytics to large-scale ML platforms.
 
-🔹 Currently: Data Science Intern @ **Prodigy InfoTech** & Master'  
+🔹 Currently: Data Science Intern @ **Prodigy InfoTech** & Master's Student at **AIMS RWANDA**.
 🔹 Passionate about: ML • NLP • Predictive Modeling • Big Data • MLOps  
 🔹 Building: **Large-Scale Education Analytics Platform** (Python + Spark + MLlib)  
-🔹 Motto: _“Data is powerful — but intelligence is transformative.”_
+🔹 Motto: _“Turning complexity into clarity through intelligent systems.”_
 
 ---
 
@@ -64,20 +64,32 @@ My mission is to create **solutions that educate, empower, and transform organiz
 ## 💬 Let's Connect
 I love collaborating on **data-driven solutions**, research, and ML projects.
 
+## 🌐 🙌🙌👏✍With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/patrice-iradukunda-74931827a//"><img src="https://img.shields.io/badge/LinkedIn-Patrice_IRADUKUNDA-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:patriceir27@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/patriceir27-ship-it"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/patrice-iradukunda-74931827a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Patrice%20Iradukunda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:patriceir27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/patriceir27-ship-it">
+    <img src="https://img.shields.io/badge/GitHub-Patrice%20Iradukunda-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?patriceir27-ship-it&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patriceir27-ship-it&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?patriceir27-ship-it&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patriceir27-ship-it&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 ---
@@ -85,4 +97,3 @@ I love collaborating on **data-driven solutions**, research, and ML projects.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=footer" />
 </p>
-
